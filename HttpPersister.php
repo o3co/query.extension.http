@@ -13,10 +13,10 @@ use O3Co\Query\Persister\AbstractPersister;
  *   Commonly, HttpPersister is extended with Specified Visitor.
  * 
  * @uses Persister
- * @package { PACKAGE }
+ * @package \O3Co\Query
  * @copyright Copyrights (c) 1o1.co.jp, All Rights Reserved.
  * @author Yoshi<yoshi@1o1.co.jp> 
- * @license { LICENSE }
+ * @license MIT
  */
 class HttpPersister extends AbstractPersister implements Persister 
 {
